@@ -1,4 +1,4 @@
-Demo....
+Demo...
 drop program RBD_InpatientDialysisReport go
 create program RBD_InpatientDialysisReport
  
@@ -31,4 +31,4 @@ set uabdoc = " *****************************************************************
 
 Demo
 
-Blake
+Blake Driskill
